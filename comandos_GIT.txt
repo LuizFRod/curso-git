@@ -1,0 +1,12 @@
+Comando git
+Transcrição da primeira imagem
+git init = para inicializar um repositório na pasta atual (o . significa a pasta atual)
+git status = me mostra como está o diretório
+git add = para adicionar o que quero que vá para o commit (com . adiciona todos os arquivos)
+git commit -m "mensagem" = para commitar
+git log = para ver commits
+git diff = mostra o que foi alterado no arquivo, caso eu altere o arquivo e tenha esquecido (com . mostra o histórico de alterações de todos os arquivos)
+git reset +nome do arquivo = (caso você tenha dado um git add . e vc queira retirar um arquivo para commitar, é só usar esse comando)
+git checkout -b = cria branch nova, tipo um save secundário de algo, como Luiz-> Luiz F (o -b é para criar branch, para mover-se entre branches é só dar um git checkout +nome do arquivo)
+git merge = mescla arquivos entre branchs, exemplo, se estou na secundária e volto para main, ele copia os arquivos da secundária para a main
+git branch -d +nome da branch = para apagar branch secundária

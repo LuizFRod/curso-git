@@ -1,0 +1,7 @@
+Comandos bash
+ls -a lista tudo
+pwd mostra todo o diretório
+rm +pasta apaga a pasta
+rm -rf apaga sem perguntar TER CUIDADO COM ESSE COMANDO
+cd Desktop(nome da pagina, desktop é só um exemplo) localizar diretório/ entrar nele
+cat mostra o que tem dentro do arquivo de texto
